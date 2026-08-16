@@ -1,0 +1,8 @@
+[Sound Theme]
+Name=Quitto Coffee Modern Sounds
+Comment=Modern system sounds inspired by Windows 11
+Inherits=freedesktop
+Directories=stereo
+
+[stereo]
+OutputProfile=stereo
